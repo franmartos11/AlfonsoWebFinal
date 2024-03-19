@@ -6,7 +6,7 @@ export default function ServicesDisplay() {
             <div className="mx-auto max-w-screen-xl  px-4 py-10 sm:py-12 sm:px-6 lg:py-24 lg:px-8">
                 <div className="mx-auto max-w-lg text-center">
                     <h2 className="text-3xl font-bold sm:text-6xl text-gray-00  ">
-                        Mis Servicios
+                        MIS SERVICIOS
                     </h2>
                     <p className="mt-3 mb-16 text-gray-300 text-xl ">
                     Descubre cómo puedo llevar tu visión más allá de las expectativas gracias a mi experiencia.
