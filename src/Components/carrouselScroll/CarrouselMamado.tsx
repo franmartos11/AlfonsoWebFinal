@@ -8,7 +8,7 @@ export default function CarrouselMamado() {
                 
                 <div className="container    px-6 pt-7 pb-0 mx-auto sm:pt-0 sm:pb-12 ">
                     <h1 className="text-4xl pt-16   mb-4 font-semibold text-center  capitalize lg:text-6xl text-white">
-                        Mis Proyectos
+                        MIS PROYECTOS
                     </h1>
 
                     <div className="flex justify-center mx-auto mt-6">
@@ -43,8 +43,8 @@ export default function CarrouselMamado() {
                             Dos Arroyos
                         </h1>
 
-                        <p className="mt-2  capitalize text-gray-300">
-                            Un desarrollo a la rivera del arroyo El Cajón 
+                        <p className="mt-2   text-gray-300">
+                            Desarrollo de fincas en arroyo El Cajón 
                         </p>
 
                         <div className="flex mt-3 -mx-2">
@@ -65,7 +65,7 @@ export default function CarrouselMamado() {
                             Reserva privada Arroyo Hondo
                         </h1>
 
-                        <p className="mt-2  capitalize text-gray-300">
+                        <p className="mt-2 text-gray-300">
                             Un desarrollo sobre fincas con bosques y arroyos
                         </p>
 
@@ -83,12 +83,12 @@ export default function CarrouselMamado() {
                             height={2000}
                         ></Image>
 
-                        <h1 className="mt-4 text-2xl font-semibold  capitalize text-white">
+                        <h1 className="mt-4 text-2xl font-semibold text-white">
                             Puesto Don Erasmo
                         </h1>
 
-                        <p className="mt-2  capitalize text-gray-300">
-                            Un saneamiento de un rancho centenario
+                        <p className="mt-2 text-gray-300">
+                            Saneamiento de titulos y acondicionamiento de un rancho centenario
                         </p>
 
                         <div className="flex mt-3 -mx-2">
