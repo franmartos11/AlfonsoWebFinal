@@ -41,23 +41,23 @@ const squareData = [
   },
   {
     id: 11,
-    src: "https://definicion.de/wp-content/uploads/2010/04/urbanizacion-1.jpg",
+    src: "https://noasur.conicet.gov.ar/wp-content/uploads/sites/101/2023/04/1.-HIGHLANDS-PAISAJE-VALLES.jpg",
   },
   {
     id: 12,
-    src: "https://www.accesor.com/wp-content/uploads/Urbanizaciones-640x321.jpg",
+    src: "https://nuncadejesdeviajar.com/wp-content/uploads/2021/06/IMG_0570.jpg",
   },
   {
     id: 13,
-    src: "https://activitasinversioninmobiliaria.com/wp-content/uploads/2021/07/zonas-verdes-urbanizacion-privada-activitas.jpg",
+    src: "https://nuncadejesdeviajar.com/wp-content/uploads/2021/06/IMG_20210218_145156990_HDR.jpg",
   },
   {
     id: 14,
-    src: "https://www.aelca.es/material/img/es/1928_1579694762_portada-1200-x-800.jpg",
+    src: "https://7madiario.com.ar/new/wp-content/uploads/2020/10/valle.jpg",
   },
   {
     id: 15,
-    src: "https://us.123rf.com/450wm/jevanto/jevanto2203/jevanto220300017/182939428-casas-de-arquitectura-moderna-de-nueva-construcci%C3%B3n-en-inglaterra.jpg?ver=6",
+    src: "https://volemos.nyc3.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2021/01/18141124/valle-calamuchita.jpg",
   },
   {
     id: 16,
@@ -74,7 +74,7 @@ const HeaderProyect = () => {
     <section className="w-full px-8 pt-[10rem] pb-[18rem] grid grid-cols-1 md:grid-cols-2 items-center gap-8 max-w-6xl mx-auto animate-fade-up animate-once animate-duration-[1700ms]">
       <div>
         <h3 className="text-4xl md:text-6xl font-semibold">
-          Conoce Sobre Mis Proyectos
+          CONOCE SOBRE MIS PROYECTOS
         </h3>
         <p><br/></p>
         
