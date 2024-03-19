@@ -17,10 +17,7 @@ export default function DobleImgV2() {
                             LOTEO RESIDENCIAL EN VILLA MARIA
                         </h3>
                         <p className="mt-3 text-lg text-gray-200">
-                            Villa María es la tercera ciudad más importante de la provincia 
-                            de Córdoba, Argentina. Es cabecera del departamento General San 
-                            Martín. Actualmente me encuentro trabajando en un loteo residencial 
-                            en esta localidad. 
+                            Con excelente ubicación estratégica dentro de la ciudad y cercanía al río, me encuentro trabajando en un loteo residencial que ofrecerá servicios completos y de alta gama en esta localidad. Siendo Villa María la tercera ciudad más importante de la provincia de Córdoba, Argentina, y cabecera del departamento General San Martín.
                         </p>
 
                     </div>
