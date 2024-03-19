@@ -76,7 +76,7 @@ export default function AboutUsHEADERv3() {
                                 </span>
                             </h1>
                             <p className="mb-0 p-2 text-gray-900 text-xl">
-                            Como emprendedor inmobiliario especializado en urbanizaciones, me dedico a desarrollar espacios habitables que poseen un estándar de excelencia y profesionalismo. Ofreciendo desde chacras en montañas hasta lotes residenciales en la ciudad. 
+                                Como emprendedor inmobiliario especializado en urbanizaciones, desarrollo espacios habitables que poseen un estándar de excelencia y profesionalismo. Ofreciendo desde chacras en montañas hasta lotes residenciales en la ciudad. 
                             </p>
                             <div className="flex items-center space-x-4 m-4 mx-0 justify-center sm:justify-center md:justify-center lg:justify-start xl:justify-start ">
                                 <a
