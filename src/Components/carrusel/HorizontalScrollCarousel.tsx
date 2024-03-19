@@ -75,7 +75,7 @@ const cards = [
         id: 2,
     },
     {
-        url: "https://globalindustries.mx/wp-content/uploads/2020/06/9.jpg",
+        url: "https://hazrevista.org/wp-content/uploads/trasnparencia.jpg",
         title: "Transparencia",
         id: 3,
     },
