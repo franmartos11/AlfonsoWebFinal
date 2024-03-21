@@ -181,7 +181,7 @@ export default function CardProyect() {
                             </p>
                             <p className="mt-6">
                                 ¡Únete a nosotros en nuestro viaje hacia un
-                                futuro más verde y próspero! ¡Reserva ahora y
+                                futuro más verde y próspero! ¡Visita la web del proyecto y
                                 descubre la belleza de la sustentabilidad en Dos
                                 Arroyos!
                             </p>
@@ -189,7 +189,7 @@ export default function CardProyect() {
                                 href="http://dosarroyoseldurazno.com.ar/?utm_term&utm_campaign=2A%20-%20Maximo%20Rendimiento&utm_source=adwords&utm_medium=ppc&hsa_acc=7732122384&hsa_cam=19982195984&hsa_grp&hsa_ad&hsa_src=x&hsa_tgt&hsa_kw&hsa_mt&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpblkfcvM5a9idid-TrFtRsz-1SbIa8dSw__bjxw6YXFn1UqeUJO-xMaAqHxEALw_wcB"
                                 className="mt-[2rem] inline-block rounded border-blue-950 bg-blue-950 px-12 py-3 text-sm font-medium text-white  hover:bg-blue-900 focus:outline-none focus:ring active:text-blue-950"
                             >
-                                Visita Web
+                                Visita la web
                             </Link>
                         </div>
                     </div>
