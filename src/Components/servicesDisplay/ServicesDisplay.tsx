@@ -9,7 +9,8 @@ export default function ServicesDisplay() {
                         MIS SERVICIOS
                     </h2>
                     <p className="mt-3 mb-16 text-gray-300 text-xl ">
-                    Descubre cómo puedo llevar tu visión más allá de las expectativas gracias a mi experiencia.
+                        Descubre cómo puedo llevar tu visión más allá de las
+                        expectativas gracias a mi experiencia.
                     </p>
                 </div>
 
@@ -22,13 +23,19 @@ export default function ServicesDisplay() {
                             viewBox="0 0 24 24"
                             stroke="currentColor"
                         >
-                            <path d="M12 14l9-5-9-5-9 5 9 5z" />
-                            <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+                            <circle
+                                cx="12"
+                                cy="12"
+                                r="11"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                            />
                             <path
                                 strokeLinecap="round"
                                 strokeLinejoin="round"
-                                strokeWidth="2"
-                                d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
+                                strokeWidth="3"
+                                d="M6 12l4 4 8-8"
                             />
                         </svg>
 
@@ -52,13 +59,19 @@ export default function ServicesDisplay() {
                             viewBox="0 0 24 24"
                             stroke="currentColor"
                         >
-                            <path d="M12 14l9-5-9-5-9 5 9 5z" />
-                            <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+                            <circle
+                                cx="12"
+                                cy="12"
+                                r="11"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                            />
                             <path
                                 strokeLinecap="round"
                                 strokeLinejoin="round"
-                                strokeWidth="2"
-                                d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
+                                strokeWidth="3"
+                                d="M6 12l4 4 8-8"
                             />
                         </svg>
 
@@ -67,7 +80,11 @@ export default function ServicesDisplay() {
                         </h2>
 
                         <p className="mt-1 text-base text-gray-300">
-                            Además del desarrollo sobre tierras propias trabajo con propietarios dispuestos a asociarse con el aporte de su tierra a cambio de unidades resultantes del proyecto, maximizando así las ganancias como propietario. 
+                            Además del desarrollo sobre tierras propias trabajo
+                            con propietarios dispuestos a asociarse con el
+                            aporte de su tierra a cambio de unidades resultantes
+                            del proyecto, maximizando así las ganancias como
+                            propietario.
                         </p>
                     </div>
 
@@ -79,13 +96,19 @@ export default function ServicesDisplay() {
                             viewBox="0 0 24 24"
                             stroke="currentColor"
                         >
-                            <path d="M12 14l9-5-9-5-9 5 9 5z" />
-                            <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+                            <circle
+                                cx="12"
+                                cy="12"
+                                r="11"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                            />
                             <path
                                 strokeLinecap="round"
                                 strokeLinejoin="round"
-                                strokeWidth="2"
-                                d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
+                                strokeWidth="3"
+                                d="M6 12l4 4 8-8"
                             />
                         </svg>
 
@@ -94,9 +117,12 @@ export default function ServicesDisplay() {
                         </h2>
 
                         <p className="mt-1 text-base text-gray-300">
-                            Gracias a mi extenso transfondo en urbanizaciones, economía urbana y derecho, 
-                            aporto una mirada integral en lo que a un terreno o edificacion refiere, mí compromiso es identificar y explotar debilidades y fortalezas para 
-					        tomar las decisiones precisas que el contexto demanda.
+                            Gracias a mi extenso transfondo en urbanizaciones,
+                            economía urbana y derecho, aporto una mirada
+                            integral en lo que a un terreno o edificacion
+                            refiere, mí compromiso es identificar y explotar
+                            debilidades y fortalezas para tomar las decisiones
+                            precisas que el contexto demanda.
                         </p>
                     </div>
 
@@ -108,13 +134,19 @@ export default function ServicesDisplay() {
                             viewBox="0 0 24 24"
                             stroke="currentColor"
                         >
-                            <path d="M12 14l9-5-9-5-9 5 9 5z" />
-                            <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+                            <circle
+                                cx="12"
+                                cy="12"
+                                r="11"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                            />
                             <path
                                 strokeLinecap="round"
                                 strokeLinejoin="round"
-                                strokeWidth="2"
-                                d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
+                                strokeWidth="3"
+                                d="M6 12l4 4 8-8"
                             />
                         </svg>
 
@@ -123,10 +155,10 @@ export default function ServicesDisplay() {
                         </h2>
 
                         <p className="mt-1 text-base text-gray-300">
-                            Abrazo la sostenibilidad en cada paso.
-                            Desarrollo urbanizaciones que integran prácticas
-                            ecoamigables, maximizando la armonía entre la
-                            naturaleza y la vida moderna.
+                            Abrazo la sostenibilidad en cada paso. Desarrollo
+                            urbanizaciones que integran prácticas ecoamigables,
+                            maximizando la armonía entre la naturaleza y la vida
+                            moderna.
                         </p>
                     </div>
 
@@ -138,13 +170,19 @@ export default function ServicesDisplay() {
                             viewBox="0 0 24 24"
                             stroke="currentColor"
                         >
-                            <path d="M12 14l9-5-9-5-9 5 9 5z" />
-                            <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+                            <circle
+                                cx="12"
+                                cy="12"
+                                r="11"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                            />
                             <path
                                 strokeLinecap="round"
                                 strokeLinejoin="round"
-                                strokeWidth="2"
-                                d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
+                                strokeWidth="3"
+                                d="M6 12l4 4 8-8"
                             />
                         </svg>
 
@@ -153,15 +191,12 @@ export default function ServicesDisplay() {
                         </h2>
 
                         <p className="mt-1 text-base text-gray-300">
-                            Construyo más que hogares; creo
-                            infraestructuras que conectan y mejoran la vida de
-                            las personas. Desde carreteras hasta parques, cada
-                            detalle está diseñado para la funcionalidad y la
-                            estética.
+                            Construyo más que hogares; creo infraestructuras que
+                            conectan y mejoran la vida de las personas. Desde
+                            carreteras hasta parques, cada detalle está diseñado
+                            para la funcionalidad y la estética.
                         </p>
                     </div>
-
-                    
 
                     <div className="block rounded-sm border bg-gray-900 border-gray-800 p-8 shadow-xl transition  hover:border-blue-950 hover:shadow-blue-950">
                         <svg
@@ -171,13 +206,19 @@ export default function ServicesDisplay() {
                             viewBox="0 0 24 24"
                             stroke="currentColor"
                         >
-                            <path d="M12 14l9-5-9-5-9 5 9 5z" />
-                            <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+                            <circle
+                                cx="12"
+                                cy="12"
+                                r="11"
+                                fill="none"
+                                stroke="currentColor"
+                                stroke-width="2"
+                            />
                             <path
                                 strokeLinecap="round"
                                 strokeLinejoin="round"
-                                strokeWidth="2"
-                                d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
+                                strokeWidth="3"
+                                d="M6 12l4 4 8-8"
                             />
                         </svg>
 
@@ -186,16 +227,14 @@ export default function ServicesDisplay() {
                         </h2>
 
                         <p className="mt-1 text-base text-gray-300">
-                            Diseño y desarrollo espacios verdes que no
-                            solo embellecen las urbanizaciones, sino que también
+                            Diseño y desarrollo espacios verdes que no solo
+                            embellecen las urbanizaciones, sino que también
                             promueven un estilo de vida activo y saludable.
                             Desde parques y senderos hasta áreas de recreación,
                             creamos entornos que fomentan la conexión con la
                             naturaleza y la comunidad.
                         </p>
                     </div>
-
-                    
                 </div>
 
                 <div className="mt-12 mb-10 text-center">

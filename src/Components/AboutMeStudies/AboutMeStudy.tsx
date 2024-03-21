@@ -106,7 +106,7 @@ export default function AboutMeStudy() {
                             <div className="w-full h-32 md:w-2/12 shrink-0 grow-0 basis-auto">
                                 <img
                                     src="./arroyohondologo3.jpeg"
-                                    className=" h-32  rounded-l-lg shadow-lg dark:shadow-black/20"
+                                    className=" h-32   rounded-l-lg shadow-lg dark:shadow-black/20"
                                     alt="Avatar"
                                 />
                             </div>

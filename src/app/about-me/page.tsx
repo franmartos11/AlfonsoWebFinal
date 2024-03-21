@@ -28,14 +28,14 @@ export default function AboutUs() {
             <AboutMeMyTrayectory></AboutMeMyTrayectory>
             <div className="h-[12rem] pt-10 flex items-center justify-center bg-gray-900">
                 <p className="text-3xl font-bold sm:text-6xl text-white ">
-                    Eventos
+                    EVENTOS
                 </p>
             </div>
 
             <AboutMeEvents></AboutMeEvents>
             <div className="h-[10rem] pt-10 flex items-center justify-center bg-gray-800">
                 <p className="text-3xl font-bold sm:text-6xl text-white ">
-                    Mi Trayectoria Profecional
+                    MI TRAYECTORIA PROFESIONAL
                 </p>
             </div>
             <AboutMeStudy></AboutMeStudy>

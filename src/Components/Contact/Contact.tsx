@@ -6,7 +6,7 @@ export default function Contact() {
                     Contactame
                 </h2>
                 <p className="mb-8 lg:mb-16 font-light text-center text-gray-400 sm:text-xl">
-                    Tienes alguna duda o quieres agendar una reunion, no dudes en rellenar mi formulario de contacto
+                    ¡Hazme saber cómo puedo ayudarte! Completa el formulario de contacto y estaré encantado de responder a tus preguntas, discutir colaboraciones o simplemente charlar sobre tus ideas.
                 </p>
                 <form action="https://formsubmit.co/alfonsolozita@gmail.com" method="POST" className="space-y-8">
                     <div>
