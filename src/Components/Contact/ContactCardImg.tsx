@@ -9,7 +9,7 @@ export default function ContactCardImg() {
                             Contactame
                         </h1>
 
-                        <p className="mt-4 text-gray-400">
+                        <p className="mt-4 text-gray-400 text-center">
                             ¡Hazme saber cómo puedo ayudarte! Completa el formulario de contacto y estaré encantado de responder a tus preguntas, discutir colaboraciones o simplemente charlar sobre tus ideas.
                         </p>
 
@@ -99,6 +99,34 @@ export default function ContactCardImg() {
                                     
                                     <a href="https://www.google.com/maps/place/Escribania+Marchini+Lozita/@-32.4098858,-63.2461997,21z/data=!4m15!1m8!3m7!1s0x95cc42de3d51e521:0x5941c72cd92141b1!2sCatamarca+1026,+X5900+Villa+María,+Córdoba!3b1!8m2!3d-32.4098261!4d-63.2459734!16s%2Fg%2F11gj4ns674!3m5!1s0x95cc42de3b64ab53:0x9e37e72e900171e1!8m2!3d-32.4098197!4d-63.245979!16s%2Fg%2F1hc421vl0?entry=ttu">
                                         Catamarca 1026, Villa María. 
+                                    </a>
+                                </span>
+                            </p>
+                            <p className="flex items-start -mx-2">
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    className="w-6 h-6 mx-2 text-blue-400 "
+                                    fill="none"
+                                    viewBox="0 0 24 24"
+                                    stroke="currentColor"
+                                    stroke-width="2"
+                                >
+                                    <path
+                                        stroke-linecap="round"
+                                        stroke-linejoin="round"
+                                        d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+                                    />
+                                    <path
+                                        stroke-linecap="round"
+                                        stroke-linejoin="round"
+                                        d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
+                                    />
+                                </svg>
+
+                                <span className="mx-2  truncate w-72 text-gray-400">
+                                    
+                                    <a href="https://www.google.com/maps/place/Valle+Escondido,+Córdoba/@-31.3707721,-64.2981891,14z/data=!3m1!4b1!4m6!3m5!1s0x94329e8dba3295b9:0x3eb6a826c688a264!8m2!3d-31.3632999!4d-64.2824203!16s%2Fg%2F11p75rr4z8?entry=ttu">
+                                        Valle Escondido, Cordoba Capital
                                     </a>
                                 </span>
                             </p>

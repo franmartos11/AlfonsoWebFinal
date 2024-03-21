@@ -126,6 +126,7 @@ export default function CardProyect() {
                             </p>
                             */}
                             <h2> PARCELAS EN VENTA </h2>
+
                             <p className="mt-6">
                                 El desarrollo cuenta con un total de 20 chacras
                                 exclusivas, planteadas desde una filosofía
@@ -139,6 +140,50 @@ export default function CardProyect() {
                                 Arroyos un espacio ideal para disfrutar la
                                 conexión con la montaña, la vida silvestre y la
                                 tranquilidad.
+                            </p>
+                            <br />
+
+                            <h2> SUSTENTABILIDAD EDILICIA EN CABAÑAS </h2>
+
+                            <p className="mt-6">
+                                En Dos Arroyos, estamos comprometidos con el
+                                cuidado del medio ambiente y la promoción de
+                                prácticas sostenibles en todas nuestras
+                                operaciones. Nuestras cabañas no solo ofrecen un
+                                refugio acogedor en medio de la naturaleza, sino
+                                que también están diseñadas y construidas con
+                                los más altos estándares de sustentabilidad
+                                edilicia. ¿Qué es la sustentabilidad edilicia?
+                                Es el enfoque integral que considera el impacto
+                                ambiental, social y económico de la construcción
+                                y operación de edificios.
+                            </p>
+                            <p className="mt-6">
+                                En Dos Arroyos, nos esforzamos por minimizar
+                                nuestra huella ecológica y maximizar el
+                                bienestar de nuestros huéspedes y la comunidad
+                                local. Nuestras cabañas están construidas con
+                                materiales eco-amigables y de bajo impacto
+                                ambiental. Desde la madera certificada hasta los
+                                sistemas de energía renovable, cada aspecto de
+                                nuestras construcciones se selecciona
+                                cuidadosamente para garantizar la máxima
+                                eficiencia y mínimos residuos. Además, nuestras
+                                cabañas están diseñadas para integrarse
+                                armoniosamente con el entorno natural
+                                circundante. Desde los paisajes hasta la vida
+                                silvestre, nos esforzamos por preservar y
+                                proteger la belleza única de cada ubicación
+                                donde operamos. Al elegir alojarse en nuestras
+                                cabañas, no solo disfrutarás de un ambiente
+                                tranquilo y relajante, sino que también estarás
+                                apoyando prácticas sustentables y responsables.
+                            </p>
+                            <p className="mt-6">
+                                ¡Únete a nosotros en nuestro viaje hacia un
+                                futuro más verde y próspero! ¡Reserva ahora y
+                                descubre la belleza de la sustentabilidad en Dos
+                                Arroyos!
                             </p>
                             <Link
                                 href="http://dosarroyoseldurazno.com.ar/?utm_term&utm_campaign=2A%20-%20Maximo%20Rendimiento&utm_source=adwords&utm_medium=ppc&hsa_acc=7732122384&hsa_cam=19982195984&hsa_grp&hsa_ad&hsa_src=x&hsa_tgt&hsa_kw&hsa_mt&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpblkfcvM5a9idid-TrFtRsz-1SbIa8dSw__bjxw6YXFn1UqeUJO-xMaAqHxEALw_wcB"
