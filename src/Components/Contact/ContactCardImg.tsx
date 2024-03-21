@@ -10,7 +10,7 @@ export default function ContactCardImg() {
                         </h1>
 
                         <p className="mt-4 text-gray-400">
-                            Me encantaria escuchar tus dudas o propuestas
+                            ¡Hazme saber cómo puedo ayudarte! Completa el formulario de contacto y estaré encantado de responder a tus preguntas, discutir colaboraciones o simplemente charlar sobre tus ideas.
                         </p>
 
                         <form className="mt-12" action="https://formsubmit.co/alfonsolozita@gmail.com" method="POST">
