@@ -2,6 +2,7 @@
 import AboutMeEvents from "@/Components/AboutMeEvents/AboutMeEvents";
 import AboutMeMyTrayectory from "@/Components/AboutMeMyTrayectory/AboutMeMyTrayectory";
 import AboutMeStudy from "@/Components/AboutMeStudies/AboutMeStudy";
+import AboutMeStudyV2 from "@/Components/AboutMeStudies/AboutMeStudyV2";
 import AboutMeTimeLine from "@/Components/AboutMeTimeLine/AboutMeTimeLine";
 import AboutUsStudy from "@/Components/AboutUsStudy/AboutUsStudy";
 import Contact from "@/Components/Contact/Contact";
@@ -33,12 +34,9 @@ export default function AboutUs() {
             </div>
 
             <AboutMeEvents></AboutMeEvents>
-            <div className="h-[10rem] pt-10 flex items-center justify-center bg-gray-800">
-                <p className="text-3xl font-bold sm:text-6xl text-white ">
-                    MI TRAYECTORIA PROFESIONAL
-                </p>
-            </div>
-            <AboutMeStudy></AboutMeStudy>
+            
+            
+            <AboutMeStudyV2></AboutMeStudyV2>
 
             <Contact></Contact>
         </>

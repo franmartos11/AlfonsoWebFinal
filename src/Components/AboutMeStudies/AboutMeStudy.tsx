@@ -119,6 +119,7 @@ export default function AboutMeStudy() {
                                 <p>2020-Actualidad</p>
                             </div>
                         </div>
+                        
 
                         <div className="mb-12 rounded-lg flex flex-wrap md:mb-4 bg-gray-300">
                             <div className="w-full md:w-2/12 shrink-0 grow-0 basis-auto">
