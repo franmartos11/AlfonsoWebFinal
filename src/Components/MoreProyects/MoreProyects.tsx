@@ -37,7 +37,7 @@ export default function MoreProyects() {
                             PUESTO DON ERASMO
                         </h3>
                         <p className="mt-3 text-lg text-gray-200">
-                            Sobre un campo ubicado en las montañas entre bosques y arroyos que contiene un icónico rancho centenario hecho de barro y piedra. Me encargué de la totalidad del proyecto, haciéndome responsable desde la compra del campo y el saneamiento de los títulos, hasta la creación del camino de ingreso al mismo, el alambrado perimetral y restauración de la edificación del siglo pasado.
+                            En las montañas, entre bosques y arroyos, se encuentra un campo que alberga un icónico rancho centenario construido con barro y piedra. Me hice cargo de la totalidad del proyecto, responsabilizándome de la compra del campo y el saneamiento de los títulos, la creación del camino de ingreso, el alambrado perimetral y la restauración de la edificación del siglo pasado.
                         </p>
                     </div>
                     <div aria-hidden="true" className="mt-10 lg:mt-0">
@@ -57,7 +57,7 @@ export default function MoreProyects() {
                             VIVIENDA EN BARRIO LAS ROSAS CBA
                         </h3>
                         <p className="mt-3 text-lg text-gray-200">
-                            Luego de designar arquitectos y constructores para el proyecto, acompañé de cerca todo el proceso de construcción y venta de una vivienda urbana en el Barrio Las Rosas. Participé en la elección del lote, diseño y financiamiento del mismo, así como también estuve presente en el proceso de construcción.   
+                            Tras la designación de arquitectos y constructores para el proyecto, acompañé de cerca el proceso completo de construcción y venta de una vivienda urbana en el barrio Las Rosas. Participé en la elección del lote, el diseño y el financiamiento del mismo, así como también estuve presente en el proceso de construcción. 
                         </p>
                     </div>
                     <div aria-hidden="true" className="mt-10 lg:mt-0">

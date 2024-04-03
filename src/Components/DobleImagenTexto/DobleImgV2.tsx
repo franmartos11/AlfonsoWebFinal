@@ -17,7 +17,7 @@ export default function DobleImgV2() {
                             LOTEO RESIDENCIAL EN VILLA MARIA
                         </h3>
                         <p className="mt-3 text-lg text-gray-200">
-                            Con excelente ubicación estratégica dentro de la ciudad y cercanía al río, me encuentro trabajando en un loteo residencial que ofrecerá servicios completos y de alta gama en esta localidad. Siendo Villa María la tercera ciudad más importante de la provincia de Córdoba, Argentina, y cabecera del departamento General San Martín.
+                            Goza de una excelente ubicación estratégica dentro de la ciudad, con cercanía al río. Estoy trabajando en un loteo residencial que ofrecerá servicios completos y de alta gama en esta localidad. Cabe destacar que Villa María es la tercera ciudad más importante de la provincia de Córdoba, Argentina, y cabecera del departamento General San Martín.
                         </p>
 
                     </div>
