@@ -17,7 +17,7 @@ export default function(){
 						<p className="mt-3">Universidad Siglo 21</p>
 					</div>
 					<div className="flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:bg-blue-600">
-						<h3 className="text-xl font-semibold tracki">PRACTICA MAS ABSCRIPCION NOTARIAL </h3>
+						<h3 className="text-xl font-semibold tracki">PRACTICA MAS ADSCRIPCION NOTARIAL </h3>
 						<time className="text-xs tracki uppercase text-gray-600">2016 - 2021</time>
 						<p className="mt-3">Escribanía Marchini-Lozita</p>
 					</div>

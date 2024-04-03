@@ -895,6 +895,9 @@ video {
 .h-\[300vh\] {
   height: 300vh;
 }
+.h-\[38rem\] {
+  height: 38rem;
+}
 .h-\[450px\] {
   height: 450px;
 }
@@ -912,18 +915,6 @@ video {
 }
 .h-screen {
   height: 100vh;
-}
-.h-\[40rem\] {
-  height: 40rem;
-}
-.h-\[350rem\] {
-  height: 350rem;
-}
-.h-\[35rem\] {
-  height: 35rem;
-}
-.h-\[38rem\] {
-  height: 38rem;
 }
 .max-h-96 {
   max-height: 24rem;

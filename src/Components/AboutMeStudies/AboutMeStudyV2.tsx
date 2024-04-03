@@ -157,7 +157,7 @@ export default function () {
                   />
                   <div>
                     <h3 className="text-xl font-semibold">Escribanía Marchini-Lozita</h3>
-                    <p className="text-sm">Escribano abscripto</p>
+                    <p className="text-sm">Escribano adscripto</p>
                     <p className="text-sm">2019-2021</p>
                   </div>
                 </div>
