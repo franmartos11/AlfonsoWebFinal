@@ -66,7 +66,7 @@ export default function CarrouselMamado() {
                         </h1>
 
                         <p className="mt-2 text-gray-300">
-                            Un desarrollo sobre fincas con bosques y arroyos
+                            Desarrollo sobre fincas con bosques y arroyos
                         </p>
 
                         <div className="flex mt-3 -mx-2">
@@ -87,7 +87,7 @@ export default function CarrouselMamado() {
                             Puesto Don Erasmo
                         </h1>
 
-                        <p className="mt-2 text-gray-300">
+                        <p className="mt-2 text-gray-300 text-center">
                             Saneamiento de titulos y acondicionamiento de un rancho centenario
                         </p>
 

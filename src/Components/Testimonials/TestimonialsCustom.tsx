@@ -6,11 +6,11 @@ export default function TestimonialsCustom() {
             id: 1,
             title: 'Casa en Barrio las Rosas',
             content:
-                'Debo decir que ha sido una experiencia excepcional. Desde la elección del terreno hasta el diseño y la financiación, el equipo mostró un profesionalismo impecable y un compromiso total. Estuvieron presentes en cada etapa del proceso, asegurándose de que mis necesidades y deseos fueran atendidos. El resultado final superó con creces mis expectativas, y estoy profundamente agradecido por su excelente trabajo. ¡Recomendaría sus servicios sin dudarlo!"',
+                'Desde lo personal la relación comercial con Alfonso comenzó en 2020, desde un primer momento los valores, las propuestas y la transparencia fueron grandes motivadores que permitieron llevar adelante la relación. A lo largo del tiempo fuimos viendo como los proyectos avanzaban y se cumplían las expectativas, en algunos casos incluso se superaron. Estamos muy conformes con la vocación que se lleva adelante este profesional, vemos gran conocimiento y estudio constante que respaldan los proyectos. Desde nuestra posición estamos realmente conformes con la elección que tomamos, estamos agradecidos y con mucha expectativa de cara al futuro. Recomendamos sus servicios profesionales sin lugar a dudas.',
             author: 'Martin Lallana',
             position: 'Cliente',
             image:
-                'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80',
+                '/testimonioImg.jpeg',
         },
         {
             id: 12,
@@ -53,7 +53,7 @@ export default function TestimonialsCustom() {
 
                     <div className="mt-10 lg:mt-20 lg:flex lg:items-center">
                         <img
-                            className="object-cover object-center w-full lg:w-[32rem] rounded-lg h-96"
+                            className="object-cover object-center w-full lg:w-[32rem] rounded-lg h-[38rem]"
                             src={currentTestimonial.image}
                             alt=""
                         />
