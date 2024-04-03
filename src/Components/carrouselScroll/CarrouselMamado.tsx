@@ -55,7 +55,7 @@ export default function CarrouselMamado() {
                     <div className="flex flex-col items-center p-4 border sm:p-6 rounded-sm dark:border-gray-700">
                         <Image
                             className="object-cover w-full rounded-sm aspect-square"
-                            src="/arroyo_hondo.JPG"
+                            src="/arroyoHondo.jpeg"
                             alt=""
                             width={2000}
                             height={2000}
