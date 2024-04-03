@@ -14,13 +14,13 @@ export default function TestimonialsCustom() {
         },
         {
             id: 12,
-            title: 'Puesto Don Erasmo',
+            title: 'Dos Arroyos',
             content:
-                'Debo decir que estoy extremadamente impresionado con los resultados. Desde el momento en que adquirimos el terreno hasta la restauración del icónico rancho centenario, su compromiso y dedicación fueron excepcionales. Se encargaron de todos los aspectos del proyecto, incluida la regularización de los títulos, la creación del acceso y el cercado perimetral. El resultado final es simplemente espectacular. Recomiendo encarecidamente sus servicios a cualquiera que busque una experiencia sin preocupaciones y resultados de alta calidad en el desarrollo inmobiliario."',
+                ' Dos Arroyos me encantó por su compromiso con la sustentabilidad. Las cabañas son hermosas y cómodas, y se integran perfectamente al entorno natural. Me gustó mucho que se usen materiales eco-amigables y energías renovables. Además, la ubicación es ideal para disfrutar de la naturaleza y la tranquilidad. Si buscas un lugar para relajarte y conectar con el medio ambiente, Dos Arroyos es una excelente opción. Lo recomiendo a todos aquellos que aprecian la belleza natural y la responsabilidad ambiental. ',
             author: 'Lucas Martin Issler',
             position: 'Cliente',
             image:
-                'https://img.freepik.com/foto-gratis/joven-confiado_1098-20868.jpg',
+                '/gabo.png',
         },
     ];
 
