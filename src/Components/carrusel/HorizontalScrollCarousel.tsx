@@ -75,7 +75,7 @@ const cards = [
         id: 2,
     },
     {
-        url: "https://hazrevista.org/wp-content/uploads/trasnparencia.jpg",
+        url: "https://www.silicon.es/wp-content/uploads/2016/02/Fuente-Shutterstock_Autor-Kritchanut_transparencia1-1280x720.jpg",
         title: "Transparencia",
         id: 3,
     },
