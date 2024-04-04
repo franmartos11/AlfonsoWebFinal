@@ -51,7 +51,7 @@ export default function FooterV2() {
 
                 <div className="flex flex-col items-center sm:flex-row sm:justify-between">
                     <p className="text-sm text-gray-300">
-                        © Copyright 2024. All Rights Reserved.
+                       All Rights Reserved.
                     </p>
 
                     <div className="flex -mx-2 text-gray-300">
