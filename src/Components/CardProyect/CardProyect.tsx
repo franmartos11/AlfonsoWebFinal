@@ -16,9 +16,9 @@ export default function CardProyect() {
                         </div>
                     </div>
                 </div>
-                <div className="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
+                <div className="flex justify-center">
                     <Image
-                        className="w-[48rem] max-w-none rounded-xl bg-gray-400 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
+                        className="max-w-[48rem] w-full rounded-xl bg-gray-400 shadow-xl ring-1 ring-gray-400/10 sm:max-w-[57rem]"
                         src="https://dosarroyoseldurazno.com.ar/wp-content/uploads/2023/03/qs.jpg"
                         alt=""
                         width={612}
@@ -80,9 +80,9 @@ export default function CardProyect() {
                                 bienestar de nuestros huéspedes y la comunidad
                                 local. Nuestras cabañas están construidas con
                                 materiales eco-amigables y de bajo impacto
-                                ambiental. Desde los materiales certificados hasta los
-                                sistemas de energía renovable, cada aspecto de
-                                nuestras construcciones se selecciona
+                                ambiental. Desde los materiales certificados
+                                hasta los sistemas de energía renovable, cada
+                                aspecto de nuestras construcciones se selecciona
                                 cuidadosamente para garantizar la máxima
                                 eficiencia y mínimos residuos. Además, nuestras
                                 cabañas están diseñadas para integrarse
@@ -90,15 +90,16 @@ export default function CardProyect() {
                                 circundante. Desde los paisajes hasta la vida
                                 silvestre, nos esforzamos por preservar y
                                 proteger la belleza única de cada ubicación
-                                donde operamos. Al elegirnos, no solo disfrutarás de un ambiente
-                                tranquilo y relajante, sino que también estarás
-                                apoyando prácticas sustentables y responsables.
+                                donde operamos. Al elegirnos, no solo
+                                disfrutarás de un ambiente tranquilo y
+                                relajante, sino que también estarás apoyando
+                                prácticas sustentables y responsables.
                             </p>
                             <p className="mt-6">
                                 ¡Únete a nosotros en nuestro viaje hacia un
-                                futuro más verde y próspero! ¡Visita la web del proyecto y
-                                descubre la belleza de la sustentabilidad en Dos
-                                Arroyos!
+                                futuro más verde y próspero! ¡Visita la web del
+                                proyecto y descubre la belleza de la
+                                sustentabilidad en Dos Arroyos!
                             </p>
                             <Link
                                 href="http://dosarroyoseldurazno.com.ar/?utm_term&utm_campaign=2A%20-%20Maximo%20Rendimiento&utm_source=adwords&utm_medium=ppc&hsa_acc=7732122384&hsa_cam=19982195984&hsa_grp&hsa_ad&hsa_src=x&hsa_tgt&hsa_kw&hsa_mt&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpblkfcvM5a9idid-TrFtRsz-1SbIa8dSw__bjxw6YXFn1UqeUJO-xMaAqHxEALw_wcB"
