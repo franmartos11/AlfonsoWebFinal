@@ -44,7 +44,7 @@ export default function CarrouselMamado() {
                         </h1>
 
                         <p className="mt-2   text-gray-300">
-                            Desarrollo de fincas en arroyo El Cajón 
+                            Desarrollo de chacras rodeadas de arroyos, el Durazno (Cba) 
                         </p>
 
                         <div className="flex mt-3 -mx-2">
@@ -66,7 +66,7 @@ export default function CarrouselMamado() {
                         </h1>
 
                         <p className="mt-2 text-gray-300">
-                            Desarrollo sobre fincas con bosques y arroyos
+                            Fincas con bosques y arroyos, San Javier (Cba)
                         </p>
 
                         <div className="flex mt-3 -mx-2">

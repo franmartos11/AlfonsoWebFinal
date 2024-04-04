@@ -22,7 +22,7 @@ export default function MoreProyects() {
                     </div>
                     <div aria-hidden="true" className="mt-10 lg:mt-0">
                         <Image
-                            src="/arroyo_hondo.JPG"
+                            src="/arroyoHondo2.png"
                             alt="Villa María, Córdoba, Argentina"
                             className="mx-auto rounded-lg shadow-lg bg-gray-500"
                             width={612}
