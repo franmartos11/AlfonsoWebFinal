@@ -10,7 +10,7 @@ export default function TestimonialsCustom() {
             author: 'Joaquín Metral',
             position: 'Cliente',
             image:
-                'https://static.vecteezy.com/system/resources/previews/009/674/169/non_2x/business-flat-cartoon-style-drawing-businessman-holding-or-touching-finger-on-forehead-thoughtful-male-manager-thinking-and-looking-up-modern-lifestyle-concept-graphic-design-illustration-vector.jpg',
+                'casa_barrio_las_rosas.jpeg',
         },
         {
             id: 12,
@@ -20,7 +20,7 @@ export default function TestimonialsCustom() {
             author: 'Maria Issler',
             position: 'Cliente',
             image:
-                'https://img.freepik.com/vector-premium/diseno-negocios-dibujo-joven-empresaria-apuntando-arriba-simbolo-dedos-gestor-femenino-dedo-indice-arriba-gesto-o-ideacion-emocion-lenguaje-corporal-estilo-dibujos-animados-planos-dibujar-ilustracion-vectorial-grafica_620206-363.jpg',
+                'https://dosarroyoseldurazno.com.ar/wp-content/uploads/2023/03/vertical-arroyo.jpg',
         },
     ];
 
@@ -46,9 +46,9 @@ export default function TestimonialsCustom() {
 
                 <div className="container flex flex-col justify-center w-full min-h-screen px-6 py-10 mx-auto lg:absolute lg:inset-x-0">
                     <h1 className="text-2xl font-semibold  capitalize lg:text-3xl text-white">
-                        Lo que nuestros{" "}
+                        Lo que mis {" "}
                         <span className="text-blue-500">clientes</span> <br />{" "}
-                        dicen de nosotros
+                        dicen de mi trabajo.
                     </h1>
 
                     <div className="mt-10 lg:mt-20 lg:flex lg:items-center">
@@ -57,6 +57,7 @@ export default function TestimonialsCustom() {
                             src={currentTestimonial.image}
                             alt=""
                         />
+                        
                     
                         <div className="mt-8 lg:px-10 lg:mt-0">
                             <h1 className="text-2xl font-semibold text-white lg:w-72">
