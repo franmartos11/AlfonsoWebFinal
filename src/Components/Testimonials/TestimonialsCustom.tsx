@@ -45,7 +45,7 @@ export default function TestimonialsCustom() {
                 <div className="hidden w-3/4 min-h-screen bg-gray-800 lg:block"></div>
 
                 <div className="container flex flex-col justify-center w-full min-h-screen px-6 py-10 mx-auto lg:absolute lg:inset-x-0">
-                    <h1 className="text-2xl font-semibold  capitalize lg:text-3xl text-white">
+                    <h1 className="text-2xl font-semibold   lg:text-3xl text-white">
                         Lo que mis {" "}
                         <span className="text-blue-500">clientes</span> <br />{" "}
                         dicen de mi trabajo.
