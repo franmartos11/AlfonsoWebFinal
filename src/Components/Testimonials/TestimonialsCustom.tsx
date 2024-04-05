@@ -10,17 +10,17 @@ export default function TestimonialsCustom() {
             author: 'Joaquín Metral',
             position: 'Cliente',
             image:
-                '/testimonioImg.jpeg',
+                'https://static.vecteezy.com/system/resources/previews/009/674/169/non_2x/business-flat-cartoon-style-drawing-businessman-holding-or-touching-finger-on-forehead-thoughtful-male-manager-thinking-and-looking-up-modern-lifestyle-concept-graphic-design-illustration-vector.jpg',
         },
         {
             id: 12,
             title: 'Dos Arroyos',
             content:
                 ' Dos Arroyos me encantó por su compromiso con la sustentabilidad. Las cabañas son hermosas y cómodas, y se integran perfectamente al entorno natural. Me gustó mucho que se usen materiales eco-amigables y energías renovables. Además, la ubicación es ideal para disfrutar de la naturaleza y la tranquilidad. Si buscas un lugar para relajarte y conectar con el medio ambiente, Dos Arroyos es una excelente opción. Lo recomiendo a todos aquellos que aprecian la belleza natural y la responsabilidad ambiental. ',
-            author: 'Lucas Martin Issler',
+            author: 'Maria Issler',
             position: 'Cliente',
             image:
-                '/gabo.png',
+                'https://img.freepik.com/vector-premium/diseno-negocios-dibujo-joven-empresaria-apuntando-arriba-simbolo-dedos-gestor-femenino-dedo-indice-arriba-gesto-o-ideacion-emocion-lenguaje-corporal-estilo-dibujos-animados-planos-dibujar-ilustracion-vectorial-grafica_620206-363.jpg',
         },
     ];
 
