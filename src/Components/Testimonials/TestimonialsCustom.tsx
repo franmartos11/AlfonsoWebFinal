@@ -4,13 +4,13 @@ export default function TestimonialsCustom() {
     const testimonialsData = [
         {
             id: 1,
-            title: 'Casa en Barrio las Rosas',
+            title: 'Reserva Privada Arroyo Hondo',
             content:
                 'Desde lo personal la relación comercial con Alfonso comenzó en 2020, desde un primer momento los valores, las propuestas y la transparencia fueron grandes motivadores que permitieron llevar adelante la relación. A lo largo del tiempo fuimos viendo como los proyectos avanzaban y se cumplían las expectativas, en algunos casos incluso se superaron. Estamos muy conformes con la vocación que se lleva adelante este profesional, vemos gran conocimiento y estudio constante que respaldan los proyectos. Desde nuestra posición estamos realmente conformes con la elección que tomamos, estamos agradecidos y con mucha expectativa de cara al futuro. Recomendamos sus servicios profesionales sin lugar a dudas.',
             author: 'Joaquín Metral',
             position: 'Cliente',
             image:
-                'casa_barrio_las_rosas.jpeg',
+                'arroyoHondo.jpeg',
         },
         {
             id: 12,
