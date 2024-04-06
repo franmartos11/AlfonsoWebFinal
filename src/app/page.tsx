@@ -22,7 +22,6 @@ export default function Home() {
             <HorizontalScrollCarousel></HorizontalScrollCarousel>
             <CarrouselMamado></CarrouselMamado>
             <TestimonialsCustom></TestimonialsCustom>
-            <Testimonials></Testimonials>
             <Contact></Contact>
         </>
     );
