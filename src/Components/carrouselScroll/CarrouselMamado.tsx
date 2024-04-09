@@ -17,14 +17,7 @@ export default function CarrouselMamado() {
                         <span className="inline-block w-1 h-1 bg-blue-500 rounded-full"></span>
                     </div>
 
-                    <p className="max-w-2xl mx-auto text-lg mt-6 text-center text-gray-300">
-                        Cada proyecto es una historia única de creatividad y
-                        eficiencia, donde la excelencia en el diseño se combina
-                        con un profundo compromiso con la sostenibilidad y la
-                        calidad de vida. Explora para descubrir cómo mis
-                        habilidades y visión han dado forma a entornos urbanos
-                        vibrantes y funcionales.
-                    </p>
+                    
                 </div>
             </div>
 
