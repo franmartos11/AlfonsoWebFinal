@@ -916,6 +916,15 @@ video {
 .h-screen {
   height: 100vh;
 }
+.h-\[40rem\] {
+  height: 40rem;
+}
+.h-\[20rem\] {
+  height: 20rem;
+}
+.h-\[5rem\] {
+  height: 5rem;
+}
 .max-h-96 {
   max-height: 24rem;
 }
@@ -1559,6 +1568,12 @@ video {
 }
 .pt-\[7rem\] {
   padding-top: 7rem;
+}
+.pb-\[3rem\] {
+  padding-bottom: 3rem;
+}
+.pb-\[5rem\] {
+  padding-bottom: 5rem;
 }
 .text-center {
   text-align: center;

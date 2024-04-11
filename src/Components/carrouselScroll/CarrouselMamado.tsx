@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function CarrouselMamado() {
     return (
         <section className="bg-gray-900">
-            <div className="h-[45rem]  bg-gray-800">
+            <div className="h-[38rem]  bg-gray-800">
                 
                 <div className="container    px-6 pt-7 pb-0 mx-auto sm:pt-0 sm:pb-12 ">
                     <h1 className="text-4xl pt-16   mb-4 font-semibold text-center  capitalize lg:text-6xl text-white">
@@ -21,7 +21,7 @@ export default function CarrouselMamado() {
                 </div>
             </div>
 
-            <div className="container px-6 mx-auto -mt-72 sm:-mt-80 md:-mt-96">
+            <div className="container px-6 mx-auto  -mt-72 sm:-mt-80 md:-mt-96">
                 <div className="grid grid-cols-1 gap-8 mt-0 xl:mt-1 md:grid-cols-2 xl:grid-cols-3">
                     <div className="flex flex-col items-center p-4 border sm:p-6 rounded-sm dark:border-gray-700">
                         <Image
@@ -90,7 +90,7 @@ export default function CarrouselMamado() {
                     </div>
                 </div>
             </div>
-            <div className="flex items-center justify-center pb-8 pt-8 ">
+            <div className="flex items-center justify-center pb-[5rem] pt-8 ">
                 
                 <Link
                         href="/proyects"
