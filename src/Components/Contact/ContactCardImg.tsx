@@ -6,14 +6,21 @@ export default function ContactCardImg() {
                 <div className="lg:flex lg:items-center lg:-mx-10">
                     <div className="lg:w-1/2 lg:mx-10">
                         <h1 className="text-3xl font-semibold  capitalize text-white lg:text-5xl">
-                            Contactame
+                            Contáctame
                         </h1>
 
                         <p className="mt-4 text-gray-400 text-center">
-                            ¡Hazme saber cómo puedo ayudarte! Completa el formulario de contacto y estaré encantado de responder a tus preguntas, discutir colaboraciones o simplemente charlar sobre tus ideas.
+                            ¡Hazme saber cómo puedo ayudarte! Completa el
+                            formulario de contacto y estaré encantado de
+                            responder a tus preguntas, discutir colaboraciones o
+                            simplemente charlar sobre tus ideas.
                         </p>
 
-                        <form className="mt-12" action="https://formsubmit.co/alfonsolozita@gmail.com" method="POST">
+                        <form
+                            className="mt-12"
+                            action="https://formsubmit.co/alfonsolozita@gmail.com"
+                            method="POST"
+                        >
                             <div className="-mx-2 md:items-center md:flex">
                                 <div className="flex-1 px-2">
                                     <label className="block mb-2 text-sm text-gray-200">
@@ -96,9 +103,8 @@ export default function ContactCardImg() {
                                 </svg>
 
                                 <span className="mx-2  truncate w-72 text-gray-400">
-                                    
                                     <a href="https://www.google.com/maps/place/Escribania+Marchini+Lozita/@-32.4098858,-63.2461997,21z/data=!4m15!1m8!3m7!1s0x95cc42de3d51e521:0x5941c72cd92141b1!2sCatamarca+1026,+X5900+Villa+María,+Córdoba!3b1!8m2!3d-32.4098261!4d-63.2459734!16s%2Fg%2F11gj4ns674!3m5!1s0x95cc42de3b64ab53:0x9e37e72e900171e1!8m2!3d-32.4098197!4d-63.245979!16s%2Fg%2F1hc421vl0?entry=ttu">
-                                        Catamarca 1026, Villa María. 
+                                        Catamarca 1026, Villa María.
                                     </a>
                                 </span>
                             </p>
@@ -124,7 +130,6 @@ export default function ContactCardImg() {
                                 </svg>
 
                                 <span className="mx-2  truncate w-72 text-gray-400">
-                                    
                                     <a href="https://www.google.com/maps/place/Valle+Escondido,+Córdoba/@-31.3707721,-64.2981891,14z/data=!3m1!4b1!4m6!3m5!1s0x94329e8dba3295b9:0x3eb6a826c688a264!8m2!3d-31.3632999!4d-64.2824203!16s%2Fg%2F11p75rr4z8?entry=ttu">
                                         Valle Escondido, Cordoba Capital
                                     </a>
@@ -148,8 +153,9 @@ export default function ContactCardImg() {
                                 </svg>
 
                                 <span className="mx-2  truncate w-72 ms:w-50 text-gray-400">
-                                <a href="https://wa.me/5493534143284?text=Hola,%20quiero%20enviar%20un%20mensaje%20a%20trav%C3%A9s%20de%20WhatsApp.">+54 9 3534 14-3284</a>
-                                    
+                                    <a href="https://wa.me/5493534143284?text=Hola,%20quiero%20enviar%20un%20mensaje%20a%20trav%C3%A9s%20de%20WhatsApp.">
+                                        +54 9 3534 14-3284
+                                    </a>
                                 </span>
                             </p>
 
@@ -170,8 +176,9 @@ export default function ContactCardImg() {
                                 </svg>
 
                                 <span className="mx-2  truncate w-72 text-gray-400">
-                                    <a href="mailto:alfonsolozita@gmail.com">alfonsolozita@gmail.com</a>
-                                    
+                                    <a href="mailto:alfonsolozita@gmail.com">
+                                        alfonsolozita@gmail.com
+                                    </a>
                                 </span>
                             </p>
                         </div>
@@ -180,8 +187,6 @@ export default function ContactCardImg() {
                             <h3 className="text-gray-300 ">Sigueme</h3>
 
                             <div className="flex mt-4 -mx-1.5 ">
-                                
-
                                 <a
                                     className="mx-1.5 hover:text-blue-400 text-gray-400 transition-colors duration-300 transform "
                                     href="https://www.linkedin.com/in/alfonso-lozita-9b8920222/?originalSubdomain=ar"
@@ -206,8 +211,6 @@ export default function ContactCardImg() {
                                         />
                                     </svg>
                                 </a>
-
-                                
 
                                 <a
                                     className="mx-1.5 hover:text-blue-400 text-gray-400 transition-colors duration-300 transform "

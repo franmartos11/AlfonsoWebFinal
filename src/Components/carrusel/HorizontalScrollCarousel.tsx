@@ -91,7 +91,7 @@ const cards = [
     },
     {
         url: "https://d500.epimg.net/cincodias/imagenes/2019/10/09/legal/1570624605_325230_1570624679_noticia_normal.jpg",
-        title: "Innovacion",
+        title: "INNOVACIÓN",
         id: 6,
     },
     

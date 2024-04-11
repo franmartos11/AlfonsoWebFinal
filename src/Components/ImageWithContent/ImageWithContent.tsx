@@ -47,7 +47,7 @@ export default function ImageWithContent() {
                                 href="/contact"
                                 className="inline-block rounded bg-blue-950 px-[4rem] py-3 text-sm font-medium text-white transition hover:bg-blue-900 focus:outline-none focus:ring focus:ring-blue-400"
                             >
-                                Contactame
+                                Contáctame
                             </Link>
                         </div>
                     </div>
