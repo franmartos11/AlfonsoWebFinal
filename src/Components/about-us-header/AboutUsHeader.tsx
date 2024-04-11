@@ -6,7 +6,7 @@ export default function AboutUsHeader() {
                 <div className="grid items-center gap-12 lg:grid-cols-2">
                     <div className="mt-12 lg:mt-0">
                         <h1 className="mt-2  mb-16 text-5xl font-bold tracking-tight md:text-6xl xl:text-7xl">
-                            Quien soy?
+                        Quién soy?
                             <br />
                             <span className="text-primary">Alfonso Lozita</span>
                         </h1>
