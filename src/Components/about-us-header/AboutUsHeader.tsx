@@ -6,7 +6,7 @@ export default function AboutUsHeader() {
                 <div className="grid items-center gap-12 lg:grid-cols-2">
                     <div className="mt-12 lg:mt-0">
                         <h1 className="mt-2  mb-16 text-5xl font-bold tracking-tight md:text-6xl xl:text-7xl">
-                        Quién soy?
+                            Quién soy?
                             <br />
                             <span className="text-primary">Alfonso Lozita</span>
                         </h1>
@@ -31,7 +31,7 @@ export default function AboutUsHeader() {
                     </div>
                     <div className="mb-12 lg:mb-0">
                         <Image
-                            src="/PHOTO-2020-03-13-19-15-28.JPG"
+                            src="/alfonsophoto.webp"
                             className="w-[100%] h-[49rem]  rounded-lg shadow-lg shadow-black/20 object-cover"
                             alt=""
                             width={612}

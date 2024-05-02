@@ -6,7 +6,6 @@ import Contact from "@/Components/Contact/Contact";
 import Nav from "@/Components/HeaderNav/Nav";
 import AboutUsHeader from "@/Components/about-us-header/AboutUsHeader";
 
-
 export default function AboutUs() {
     return (
         <>

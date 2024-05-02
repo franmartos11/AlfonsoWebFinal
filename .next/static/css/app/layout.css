@@ -1405,6 +1405,12 @@ video {
 .p-\[1px\] {
   padding: 1px;
 }
+.p-\[5px\] {
+  padding: 5px;
+}
+.p-\[0px\] {
+  padding: 0px;
+}
 .px-12 {
   padding-left: 3rem;
   padding-right: 3rem;

@@ -1,4 +1,3 @@
-import Image from "next/image";
 
 export default function AboutMeEvents() {
     return (
@@ -10,11 +9,10 @@ export default function AboutMeEvents() {
                             <div className=" max-w-sm bg-white shadow-lg rounded-lg overflow-hidden my-4">
                                 <img
                                     className="w-full h-72 object-cover object-center"
-                                    src="/congreso.jpeg"
+                                    src="/congreso.webp"
                                     alt="avatar"
                                 ></img>
                                 <div className="flex items-center px-6 py-3 bg-gray-800">
-                                    
                                     <h1 className="mx-3 text-white font-semibold text-lg">
                                         Formacion
                                     </h1>
@@ -29,7 +27,7 @@ export default function AboutMeEvents() {
                                         Buenos Aires,Expo Real State Argentina
                                         2022.
                                     </p>
-                                    
+
                                     <div className="flex items-center mt-4 text-gray-700">
                                         <svg
                                             className="h-6 w-6 fill-current"
@@ -59,7 +57,7 @@ export default function AboutMeEvents() {
                             <div className="max-w-sm bg-white shadow-lg rounded-lg overflow-hidden my-4">
                                 <img
                                     className="w-full h-72 object-cover object-center"
-                                    src="/feria_siglo21.jpeg"
+                                    src="/feria_siglo21.webp"
                                     alt="avatar"
                                 ></img>
                                 <div className="flex items-center px-6 py-3 bg-gray-800">
@@ -76,7 +74,7 @@ export default function AboutMeEvents() {
                                         triple impacto de desarrollo
                                         inmobiliario en las sierras de Córdoba
                                     </p>
-                                    
+
                                     <div className="flex items-center mt-4 text-gray-700">
                                         <svg
                                             className="h-6 w-6 fill-current"
@@ -107,11 +105,10 @@ export default function AboutMeEvents() {
                             <div className="max-w-sm bg-white shadow-lg rounded-lg overflow-hidden my-4">
                                 <img
                                     className="w-full h-72 object-cover object-center"
-                                    src="/congreso_extranjero2.jpeg"
+                                    src="/congreso_extranjero2.webp"
                                     alt="avatar"
                                 ></img>
                                 <div className="flex items-center px-6 py-3 bg-gray-800">
-                                    
                                     <h1 className="mx-3 text-white font-semibold text-lg">
                                         Formacion
                                     </h1>
@@ -125,7 +122,7 @@ export default function AboutMeEvents() {
                                         desarrollo inmobiliario sobre las
                                         tendencias en Miami y Estados Unidos.
                                     </p>
-                                  
+
                                     <div className="flex items-center mt-4 text-gray-700">
                                         <svg
                                             className="h-6 w-6 fill-current"
@@ -150,8 +147,6 @@ export default function AboutMeEvents() {
                                     </div>
                                 </div>
                             </div>
-
-                            
                         </div>
                     </div>
                 </section>

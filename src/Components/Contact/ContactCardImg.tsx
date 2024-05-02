@@ -1,4 +1,5 @@
 import Image from "next/image";
+
 export default function ContactCardImg() {
     return (
         <section className="min-h-screen bg-gray-800">
@@ -75,7 +76,7 @@ export default function ContactCardImg() {
                     <div className="mt-12 pt-[3rem] lg:flex lg:mt-0 lg:flex-col lg:items-center lg:w-1/2 lg:mx-10">
                         <Image
                             className="hidden object-cover mx-auto rounded-full lg:block shrink-0 w-96 h-96"
-                            src="/alfonso.jpeg"
+                            src="/alfonso.webp"
                             alt=""
                             width={612}
                             height={612}
