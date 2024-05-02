@@ -121,7 +121,7 @@ export default function AboutUsHEADERv3() {
                         </div>
                         <div className="mb-12 lg:mb-0">
                             <Image
-                                src="/alfonso3.jpeg"
+                                src="/alfonso3.webp"
                                 className="w-[100%]  rounded-lg shadow-lg shadow-black/20"
                                 alt="alfonso"
                                 width={612}

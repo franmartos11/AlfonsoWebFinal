@@ -117,12 +117,12 @@ export default function ServicesDisplay() {
                         </h2>
 
                         <p className="mt-1 text-base text-gray-300">
-                            Gracias a mi transfondo en urbanizaciones,
-                            economía urbana y derecho, aporto una mirada
-                            integral en lo que a un terreno o edificacion
-                            refiere, mí compromiso es identificar y explotar
-                            debilidades y fortalezas para tomar las decisiones
-                            precisas que el contexto demanda.
+                            Gracias a mi transfondo en urbanizaciones, economía
+                            urbana y derecho, aporto una mirada integral en lo
+                            que a un terreno o edificacion refiere, mí
+                            compromiso es identificar y explotar debilidades y
+                            fortalezas para tomar las decisiones precisas que el
+                            contexto demanda.
                         </p>
                     </div>
 

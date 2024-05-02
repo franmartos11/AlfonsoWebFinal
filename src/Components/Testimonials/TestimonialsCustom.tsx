@@ -10,7 +10,7 @@ export default function TestimonialsCustom() {
             author: 'Joaquín Metral',
             position: 'Cliente',
             image:
-                'arroyoHondo.jpeg',
+                'arroyoHondo.webp',
         },
         {
             id: 12,

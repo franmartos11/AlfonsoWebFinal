@@ -1,13 +1,10 @@
-
 import { motion, useTransform, useScroll } from "framer-motion";
 import { useRef } from "react";
 
 const Example = () => {
     return (
         <div className="">
-            <div className="flex h-0 items-center justify-center">
-                
-            </div>
+            <div className="flex h-0 items-center justify-center"></div>
             <HorizontalScrollCarousel />
         </div>
     );
@@ -94,5 +91,4 @@ const cards = [
         title: "INNOVACIÓN",
         id: 6,
     },
-    
 ];

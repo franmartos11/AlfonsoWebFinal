@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+
 export default function ImageWithContent() {
     return (
         <section className="bg-gray-800">
@@ -8,7 +9,7 @@ export default function ImageWithContent() {
                     <div className="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">
                         <Image
                             alt="Party"
-                            src="/imginmobiliario3.jpg"
+                            src="/imginmobiliario3.webp"
                             className="absolute inset-0 h-full w-full object-cover"
                             width={1200}
                             height={800}
