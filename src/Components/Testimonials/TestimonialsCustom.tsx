@@ -1,33 +1,33 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
 export default function TestimonialsCustom() {
     const testimonialsData = [
         {
             id: 1,
-            title: 'Reserva Privada Arroyo Hondo',
+            title: "Reserva Privada Arroyo Hondo",
             content:
-                'Desde lo personal la relación comercial con Alfonso comenzó en 2020, desde un primer momento los valores, las propuestas y la transparencia fueron grandes motivadores que permitieron llevar adelante la relación. A lo largo del tiempo fuimos viendo como los proyectos avanzaban y se cumplían las expectativas, en algunos casos incluso se superaron. Estamos muy conformes con la vocación que se lleva adelante este profesional, vemos gran conocimiento y estudio constante que respaldan los proyectos. Desde nuestra posición estamos realmente conformes con la elección que tomamos, estamos agradecidos y con mucha expectativa de cara al futuro. Recomendamos sus servicios profesionales sin lugar a dudas.',
-            author: 'Joaquín Metral',
-            position: 'Cliente',
-            image:
-                'arroyoHondo.webp',
+                "Desde lo personal la relación comercial con Alfonso comenzó en 2020, desde un primer momento los valores, las propuestas y la transparencia fueron grandes motivadores que permitieron llevar adelante la relación. A lo largo del tiempo fuimos viendo como los proyectos avanzaban y se cumplían las expectativas, en algunos casos incluso se superaron. Estamos muy conformes con la vocación que se lleva adelante este profesional, vemos gran conocimiento y estudio constante que respaldan los proyectos. Desde nuestra posición estamos realmente conformes con la elección que tomamos, estamos agradecidos y con mucha expectativa de cara al futuro. Recomendamos sus servicios profesionales sin lugar a dudas.",
+            author: "Joaquín Metral",
+            position: "Cliente",
+            image: "arroyoHondo.webp",
         },
         {
             id: 12,
-            title: 'Dos Arroyos',
+            title: "Dos Arroyos",
             content:
-                ' Dos Arroyos me encantó por su compromiso con la sustentabilidad. Las cabañas son hermosas y cómodas, y se integran perfectamente al entorno natural. Me gustó mucho que se usen materiales eco-amigables y energías renovables. Además, la ubicación es ideal para disfrutar de la naturaleza y la tranquilidad. Si buscas un lugar para relajarte y conectar con el medio ambiente, Dos Arroyos es una excelente opción. Lo recomiendo a todos aquellos que aprecian la belleza natural y la responsabilidad ambiental. ',
-            author: 'Maria Issler',
-            position: 'Cliente',
-            image:
-                'https://dosarroyoseldurazno.com.ar/wp-content/uploads/2023/03/vertical-arroyo.jpg',
+                " Dos Arroyos me encantó por su compromiso con la sustentabilidad. Las cabañas son hermosas y cómodas, y se integran perfectamente al entorno natural. Me gustó mucho que se usen materiales eco-amigables y energías renovables. Además, la ubicación es ideal para disfrutar de la naturaleza y la tranquilidad. Si buscas un lugar para relajarte y conectar con el medio ambiente, Dos Arroyos es una excelente opción. Lo recomiendo a todos aquellos que aprecian la belleza natural y la responsabilidad ambiental. ",
+            author: "Maria Issler",
+            position: "Cliente",
+            image: "https://dosarroyoseldurazno.com.ar/wp-content/uploads/2023/03/vertical-arroyo.jpg",
         },
     ];
 
     const [currentTestimonialIndex, setCurrentTestimonialIndex] = useState(0);
 
     const handleNextTestimonial = () => {
-        setCurrentTestimonialIndex((prevIndex) => (prevIndex + 1) % testimonialsData.length);
+        setCurrentTestimonialIndex(
+            (prevIndex) => (prevIndex + 1) % testimonialsData.length
+        );
     };
 
     const handlePrevTestimonial = () => {
@@ -43,10 +43,9 @@ export default function TestimonialsCustom() {
             <div className="relative flex">
                 <div className="min-h-screen lg:w-1/3"></div>
                 <div className="hidden w-3/4 min-h-screen bg-gray-800 lg:block"></div>
-
                 <div className="container flex flex-col justify-center w-full min-h-screen px-6 py-10 mx-auto lg:absolute lg:inset-x-0">
                     <h2 className="text-2xl font-semibold   lg:text-3xl text-white">
-                        Lo que mis {" "}
+                        Lo que mis{" "}
                         <span className="text-blue-500">clientes</span> <br />{" "}
                         dicen de mi trabajo.
                     </h2>
@@ -57,8 +56,7 @@ export default function TestimonialsCustom() {
                             src={currentTestimonial.image}
                             alt=""
                         />
-                        
-                    
+
                         <div className="mt-8 lg:px-10 lg:mt-0">
                             <h3 className="text-2xl font-semibold text-white lg:w-72">
                                 {currentTestimonial.title}
