@@ -45,11 +45,11 @@ export default function TestimonialsCustom() {
                 <div className="hidden w-3/4 min-h-screen bg-gray-800 lg:block"></div>
 
                 <div className="container flex flex-col justify-center w-full min-h-screen px-6 py-10 mx-auto lg:absolute lg:inset-x-0">
-                    <h1 className="text-2xl font-semibold   lg:text-3xl text-white">
+                    <h2 className="text-2xl font-semibold   lg:text-3xl text-white">
                         Lo que mis {" "}
                         <span className="text-blue-500">clientes</span> <br />{" "}
                         dicen de mi trabajo.
-                    </h1>
+                    </h2>
 
                     <div className="mt-10 lg:mt-20 lg:flex lg:items-center">
                         <img
@@ -60,9 +60,9 @@ export default function TestimonialsCustom() {
                         
                     
                         <div className="mt-8 lg:px-10 lg:mt-0">
-                            <h1 className="text-2xl font-semibold text-white lg:w-72">
+                            <h3 className="text-2xl font-semibold text-white lg:w-72">
                                 {currentTestimonial.title}
-                            </h1>
+                            </h3>
 
                             <p className="max-w-lg mt-6 text-gray-400">
                                 {currentTestimonial.content}

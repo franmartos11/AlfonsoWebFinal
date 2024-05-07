@@ -6,9 +6,9 @@ export default function CarrouselMamado() {
         <section className="bg-gray-900">
             <div className="h-[38rem]  bg-gray-800">
                 <div className="container    px-6 pt-7 pb-0 mx-auto sm:pt-0 sm:pb-12 ">
-                    <h1 className="text-4xl pt-16   mb-4 font-semibold text-center  capitalize lg:text-6xl text-white">
+                    <h2 className="text-4xl pt-16   mb-4 font-semibold text-center  capitalize lg:text-6xl text-white">
                         MIS PROYECTOS
-                    </h1>
+                    </h2>
 
                     <div className="flex justify-center mx-auto mt-6">
                         <span className="inline-block w-40 h-1 bg-blue-500 rounded-full"></span>
@@ -29,9 +29,9 @@ export default function CarrouselMamado() {
                             height={2000}
                         ></Image>
 
-                        <h1 className="mt-4 text-2xl font-semibold  capitalize text-white">
+                        <h3 className="mt-4 text-2xl font-semibold  capitalize text-white">
                             Dos Arroyos
-                        </h1>
+                        </h3>
 
                         <p className="mt-2   text-gray-300">
                             Desarrollo de chacras rodeadas de arroyos, el
@@ -50,9 +50,9 @@ export default function CarrouselMamado() {
                             height={2000}
                         ></Image>
 
-                        <h1 className="mt-4 text-2xl font-semibold  capitalize text-white">
+                        <h3 className="mt-4 text-2xl font-semibold  capitalize text-white">
                             Reserva privada Arroyo Hondo
-                        </h1>
+                        </h3>
 
                         <p className="mt-2 text-gray-300">
                             Fincas con bosques y arroyos, San Javier (Cba)
@@ -70,9 +70,9 @@ export default function CarrouselMamado() {
                             height={2000}
                         ></Image>
 
-                        <h1 className="mt-4 text-2xl font-semibold text-white">
+                        <h3 className="mt-4 text-2xl font-semibold text-white">
                             Puesto Don Erasmo
-                        </h1>
+                        </h3>
 
                         <p className="mt-2 text-gray-300 text-center">
                             Saneamiento de titulos y acondicionamiento de un
